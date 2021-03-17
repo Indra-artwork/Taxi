@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Pemgrogaman\Taxi\Taxi\bin\Debug\Taxi.exe.config
+C:\Users\ASUS\source\repos\Pemgrogaman\Taxi\Taxi\bin\Debug\Taxi.exe
+C:\Users\ASUS\source\repos\Pemgrogaman\Taxi\Taxi\bin\Debug\Taxi.pdb
+C:\Users\ASUS\source\repos\Pemgrogaman\Taxi\Taxi\obj\Debug\Taxi.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Pemgrogaman\Taxi\Taxi\obj\Debug\Taxi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Pemgrogaman\Taxi\Taxi\obj\Debug\Taxi.exe
+C:\Users\ASUS\source\repos\Pemgrogaman\Taxi\Taxi\obj\Debug\Taxi.pdb
